@@ -3,6 +3,42 @@ body {
     margin: 0;
     font-size: 16px;
 }
+header {
+    background-color: white;
+    font-size: 18px;
+
+}
+h1 {
+    position: relative ; right: 100px; bottom: 2px; 
+    font-size: 18px;
+    
+}
+h1:hover {
+    color: #7a5e5e;
+}
+li {
+        display: inline-block;
+        position: relative ; left: 600px; bottom: 40px; 
+        color: #6b7280;
+        
+    }
+
+li:hover{
+    color:#5A67D8  ;
+}
+.overview-hero {
+    background-color: #E2E8F0;
+}
+.overview-hero-image{
+    position:relative ; right:40px;
+    height: 10px;
+    width: 70%;
+    border: radius 5px;
+    
+}    
+.overview-hero-text{
+    position:relative ; left:200px;
+}    
 
 .container {
     margin: 0 auto;
